@@ -653,3 +653,9 @@ body {
 .textarea-content:focus {
     border-color: #4D5AE5;
 }
+.chceckbox-box {
+    margin-bottom: 24px;
+}
+.input-checkbox:{
+
+}
