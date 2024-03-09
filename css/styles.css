@@ -656,16 +656,12 @@ body {
 .chceckbox-box {
     margin-bottom: 24px;
 }
-.chceckbox-box:checked
-{
-    
-}
-.input-checkbox:{
 
-}
+
+
 .label-modal-bottom {
     font-size: 12px;
-    line-height: 17px;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
@@ -680,4 +676,27 @@ body {
     align-items: center;
     justify-content: center;
     fill: transparent;
+}
+.span-label-modal-bottom:checked {
+    background-color: #404bbf;
+    fill: #f4f4fd;
+}
+.privacy-policy-link {
+    color:#4D5AE5;
+}
+.send-button {
+    display: block;
+    min-width: 169px;
+    height: 59px;
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #4D5AE5;
+    border: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
 }
