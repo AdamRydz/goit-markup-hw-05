@@ -654,9 +654,10 @@ body {
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
-.modal-check:checked {
+.modal-check:checked + .label-modal-bottom span {
     background-color: #404bbf;
     fill: #f4f4fd;
+    border: none;
 }
 
 .span-label-modal-bottom {
