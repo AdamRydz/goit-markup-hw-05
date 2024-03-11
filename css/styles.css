@@ -487,7 +487,7 @@ body {
 .footer-label {
     gap: 24px;
 }
-.input {
+.input-footer {
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
@@ -500,7 +500,7 @@ body {
     border-radius: 4px;
     color: #ffffff;
 }
-.input::placeholder {
+.input-footer::placeholder {
     color: #ffffff;
 }
 .footer-subscribe-button {
