@@ -524,7 +524,7 @@ body {
     margin-left: 16px;
     color: #ffffff;
 }
-.modal {
+.modal-container {
     position: fixed;
     top: 0;
     left: 0;
@@ -625,7 +625,6 @@ body {
 
 .textarea {
     margin-bottom: 16px;
-    outline: transparent;
 }
 .textarea-content {
     width: 100%;
