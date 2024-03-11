@@ -654,7 +654,7 @@ body {
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
-.label-modal-bottom:checked {
+.modal-check:checked {
     background-color: #404bbf;
     fill: #f4f4fd;
 }
